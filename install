@@ -1,0 +1,5 @@
+#!/usr/bin/env fish
+
+mkdir -p $__fish_config_dir/functions
+cp ./functions/*.fish $__fish_config_dir/functions
+
