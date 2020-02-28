@@ -1,4 +1,4 @@
-gunction vim --description='nvim command wrapper' --wraps=nvim
+function vim --description='nvim command wrapper' --wraps=nvim
     nvim $argv
 end
 
